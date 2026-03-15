@@ -1,0 +1,3 @@
+Supermarket,67.2
+50,0
+Theatre,23.1
